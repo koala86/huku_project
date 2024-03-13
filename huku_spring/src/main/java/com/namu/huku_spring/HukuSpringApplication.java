@@ -9,5 +9,4 @@ public class HukuSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HukuSpringApplication.class, args);
 	}
-
 }
